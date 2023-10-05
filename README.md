@@ -1,2 +1,2 @@
 # Landing-Page - Odin Project assignment 
-https://github.com/othercatt/odin-landing-page
+https://www.theodinproject.com/lessons/foundations-landing-page
